@@ -5,6 +5,9 @@
   "repository": "https://github.com/mahesh-singh/cracking-the-coding-interview.git",
   "author": "Your Name",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.13",
     "@babel/preset-env": "^7.12.13",
