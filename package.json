@@ -1,0 +1,16 @@
+{
+  "name": "cracking-the-coding-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mahesh-singh/cracking-the-coding-interview.git",
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.19.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies":{}
+}
